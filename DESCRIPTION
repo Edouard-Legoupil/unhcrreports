@@ -1,4 +1,4 @@
-Package: unhcrreports
+﻿Package: unhcrreports
 Title: Automated Humanitarian Reports
 Version: 0.0.0.9000
 Authors@R: 
@@ -6,7 +6,7 @@ Authors@R:
 Description: Generates automated humanitarian reports using UNHCR data,
     ggplot2, and AI narratives.
 License: MIT + file LICENSE
-URL: https://github.com/matheus-hardt/unhcrreports
+URL: https://matheus-hardt.github.io/unhcrreports, https://github.com/matheus-hardt/unhcrreports
 BugReports: https://github.com/matheus-hardt/unhcrreports/issues
 Imports: 
     circlize,

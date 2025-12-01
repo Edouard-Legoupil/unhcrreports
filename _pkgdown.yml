@@ -33,6 +33,7 @@ reference:
       - generate_plot_story
       - generate_section_summary
       - generate_report_summary
+      - render_country_report
 
   - title: "Country Plots"
     desc: "Plots for country-level analysis."
