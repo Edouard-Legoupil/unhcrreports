@@ -1,4 +1,4 @@
-url: https://matheus-hardt.github.io/unhcrreports/
+﻿url: https://matheus-hardt.github.io/unhcrreports/
 template:
   bootstrap: 5
   bootswatch: cosmo
@@ -22,6 +22,16 @@ navbar:
         - text: "AI Reporting"
           href: articles/ai-reporting.html
         - text: "Country Plots"
+          href: articles/country-plots.html
+        - text: "Region Plots"
+          href: articles/region-plots.html
+
+reference:
+  - title: "Report Generation"
+    desc: "Functions for generating reports and summaries."
+    contents:
+      - generate_plot_story
+      - generate_section_summary
       - generate_report_summary
 
   - title: "Country Plots"
